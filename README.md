@@ -22,12 +22,17 @@ This is an end to end implementation of a ML Project with ML Flow. Focus of the 
 Clone the repository
 
 ```bash
-https://github.com/krishnaik06/Kidney-Disease-Classification-Deep-Learning-Project
+https://github.com/karthikm20/ML-Flow-e2e-Kidney-Disease-Classification
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
 ```bash
-conda create -n cnncls python=3.8 -y
+conda create -n cnncls python=3.8 -y  # can use later versions aswell
+```
+or 
+
+```bash
+python -m venv ml-flow-env 
 ```
 
 ```bash
